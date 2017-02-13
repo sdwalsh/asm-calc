@@ -1,3 +1,6 @@
+; learning x86 by making a infix calculator
+; https://dere.github.io/2017-02-12/beginners-assembly-part1/
+
 global _start
 
 section .rodata
